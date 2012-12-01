@@ -24,7 +24,7 @@ and curves that followed simple geometric principles and achieved the same
 effect. That probably sounds pretentious, but another way to say it is: I
 didn't trust my hand to draw any letters freeform.
 
-<img src="./example.png">
+<img src="https://raw.github.com/robey/metrickal-typeface/master/example.png">
 
 
 Coverage
