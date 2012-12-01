@@ -55,6 +55,18 @@ look when it started, and so that (hopefully) future changes will be easier
 to graphically diff.
 
 
+Notes
+-----
+
+- height: 700
+- x-height: 500
+- width: 420
+- left and right margins: 50 each
+- baseline: -180
+- punctuation overshoot (top & bottom): 80 each
+- stroke thickness: 80
+
+
 Support
 -------
 
