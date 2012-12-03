@@ -67,6 +67,9 @@ Notes
 - baseline: -180
 - punctuation overshoot (top & bottom): 80 each
 - stroke thickness: 80
+- ascender height: 800
+- descender height: 200
+- total width: 520 (1000x520)
 
 
 Support
