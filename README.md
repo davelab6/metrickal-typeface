@@ -10,7 +10,7 @@ hinting and may look bad at chunkier resolutions, or with less-capable type
 renderers.
 
 The style is intended to mimic what a draftsman's handwriting might look
-like: simple but not cartoonish. Sans-serif, with a few exceptions to make
+like: Simple but not cartoonish. Sans-serif, with a few exceptions to make
 the monospace kerning less harsh. Easy to read at smaller point sizes.
 
 By "experimental", I mean that I've never made a typeface from scratch
@@ -18,7 +18,7 @@ before, so this will probably take a while to look polished, and may never.
 
 By "geometric", I mean that symmetry and math were emphasized first. When I
 wanted to make a stroke at a 30 degree angle, I calculated where the points
-should end up, and put them there. If a glyth looked weird, I would sketch it
+should end up, and put them there. If a glyph looked weird, I would sketch it
 out until I liked it, then go back to the drawing board and try to find lines
 and curves that followed simple geometric principles and achieved the same
 effect. That probably sounds pretentious, but another way to say it is: I
